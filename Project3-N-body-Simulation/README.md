@@ -9,10 +9,15 @@ Simulate the 2d N-body motion by integrating on discrete time sample, where grav
 ## Basic simulation method
 
 Regular numerical integral methods leads to quick divergence of the result. This project adopt leapfrog integration:
+
 $$
-x_{i+1} = x_i + v_i \Delta t + \frac{1}{2}a_i \Delta t^2 \\
+x_{i+1} = x_i + v_i \Delta t + \frac{1}{2}a_i \Delta t^2 
+$$
+
+$$
 v_{i+1} = v_i + \frac{1}{2}(a_i + a_{i+1})\Delta t
 $$
+
 whose error is about $2^{\text{nd}}$ order to the time step, which is enough for this project. And is easier to implement than methods with more accuracy (e.g., the Runge–Kutta method)
 
 ## GUI demo
