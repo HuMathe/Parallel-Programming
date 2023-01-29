@@ -19,7 +19,7 @@ whose error is about $2^{\text{nd}}$ order to the time step, which is enough for
 
 <!-- ![gui-demo](misc/gui-demo.png) -->
 <p align="center">
-    <img src="misc/gui-demo.png" style="zoom: 30%">
+    <img src="misc/gui-demo.png" height=300 width=300>
 </p>
 
 ## Code Framework
@@ -27,7 +27,7 @@ whose error is about $2^{\text{nd}}$ order to the time step, which is enough for
 <!-- ![framework](misc/Framework.png) -->
 
 <p align="center">
-    <img src="misc/Framework.png" style="zoom: 50%">
+    <img src="misc/Framework.png" height=362 width=572>
 </p>
 
 ## Barnes-Hut Simulation

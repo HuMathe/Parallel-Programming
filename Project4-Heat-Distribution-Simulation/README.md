@@ -8,8 +8,10 @@ Parallelizing Jacobbi integration in computing heat-distribution simulation (MPI
 
 <!-- ![gui-demo](misc/gui-demo.png) -->
 <p align="center">
-    <img src="misc/gui-demo.png" style="zoom: 30%">
+    <img src="misc/gui-demo.png" height="300" weight=300>
 </p>
+
+<!-- ![gui-demo](misc/gui-demo.png =250x250) -->
 
 ## Code Usage
 
