@@ -13,6 +13,7 @@ This repo contains the code & reports of the 4 projects in CSC4005 (22-23 fall).
 
 </center>
 <!-- </p> -->
+
 ---
 
 *Note*: In project 2-4, GUIs are implemented based on `freeglut`, please make sure it is installed before compiling with GUI options.
